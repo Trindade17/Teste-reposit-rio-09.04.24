@@ -1,0 +1,45 @@
+.solida 
+{
+    border-style: solid dashed dotted groove;
+    border-width: 25px 10px 4px 100px;
+    border-color: aqua crimson burlywood hotpink;
+    border: 60px solid red;
+
+    
+}
+.dotted
+{
+    border-style: dotted;
+}
+.deshed
+{
+    border-style: dashed;
+}
+.double
+{
+    border-style: double;
+}
+.groove
+{
+    border-style: groove;
+}
+.ridge
+{
+    border-style: ridge;
+}
+.inset
+{
+    border-style: inset;
+}
+.outset
+{
+    border-style: outset;
+}
+.none
+{
+    border-style: none;
+}
+.hidden
+{
+    border-style: hidden;
+}
